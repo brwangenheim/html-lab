@@ -19,6 +19,6 @@ body {
   height: auto;
   height: 300px;
 }
-h1 {
+h1, h3 {
   color: navy;
 }
