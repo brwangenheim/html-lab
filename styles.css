@@ -23,3 +23,7 @@ h1, h3, h4 {
   color: navy;
   font-family: sans-serif;
 }
+
+card {
+  background-color: white;
+}
