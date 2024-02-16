@@ -11,8 +11,8 @@ body {
 }
 #staffGallery{
   width: 70vw;
-  display: inherit;
-
+  display: flex;
+  justify-content: space-between;
 }
 .galleryImage{
   width: 100%;
